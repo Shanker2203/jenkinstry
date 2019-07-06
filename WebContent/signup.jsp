@@ -11,7 +11,7 @@
 <center><h1>Registration Page!</h1>
 
 	
-	<form action="Register" method="post">
+	<form action="Registration for new student" method="post">
 		Enter Username :<input type="text" name="userName"><br> 
 		Enter Password :<input type="password" name="password"><br>
 		<input	type="submit" value="signup"><br><br>
